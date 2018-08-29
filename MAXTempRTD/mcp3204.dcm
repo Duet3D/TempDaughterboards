@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP3204
+D Dual 12-bit Digital to Analog Converter, SPI Interface, PDIP-14
+K Dual DAC 1ch 12bit SPI
+F http://ww1.microchip.com/downloads/en/devicedoc/21897a.pdf
+$ENDCMP
+#
+#End Doc Library

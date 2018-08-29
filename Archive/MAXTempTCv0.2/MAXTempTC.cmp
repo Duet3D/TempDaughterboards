@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 16/04/2016 13:42:40
+
+BeginCmp
+TimeStamp = /5711A7EF;
+Reference = C9;
+ValeurCmp = 0.1u;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5711AC3E;
+Reference = C10;
+ValeurCmp = 0.01u;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5711A7FA;
+Reference = C11;
+ValeurCmp = 0.1u;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5711ADAC;
+Reference = C12;
+ValeurCmp = 0.01u;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /57119877;
+Reference = J1;
+ValeurCmp = ThermC1;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /57119896;
+Reference = J2;
+ValeurCmp = ThermC2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /57119228;
+Reference = P5;
+ValeurCmp = OUTPUT;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /57119201;
+Reference = P6;
+ValeurCmp = INPUT;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /57119415;
+Reference = U3;
+ValeurCmp = MAX31855;
+IdModule  = MAX81855;
+EndCmp
+
+BeginCmp
+TimeStamp = /57119868;
+Reference = U4;
+ValeurCmp = MAX31855;
+IdModule  = MAX81855;
+EndCmp
+
+EndListe

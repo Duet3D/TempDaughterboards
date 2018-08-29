@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 14/01/2016 17:39:42
+
+BeginCmp
+TimeStamp = /569704A6;
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5696F98C;
+Reference = C2;
+ValeurCmp = 0.1u;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5696F999;
+Reference = C3;
+ValeurCmp = 0.1u;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56970141;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56970429;
+Reference = C5;
+ValeurCmp = 0.1u;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5697042F;
+Reference = C6;
+ValeurCmp = 0.1u;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56970489;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /569704AE;
+Reference = L1;
+ValeurCmp = 100 µH;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /56970900;
+Reference = P1;
+ValeurCmp = RTD1;
+IdModule  = SCREW_TERMINAL_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56970BFC;
+Reference = P2;
+ValeurCmp = RTD2;
+IdModule  = SCREW_TERMINAL_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5697E298;
+Reference = P3;
+ValeurCmp = OUTPUT;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5697DC82;
+Reference = P4;
+ValeurCmp = INPUT;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5696F9A1;
+Reference = R1;
+ValeurCmp = 400R  0.1% 25ppm/C;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56970435;
+Reference = R2;
+ValeurCmp = 400R  0.1% 25ppm/C;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5696FD85;
+Reference = SJ1;
+ValeurCmp = SJ;
+IdModule  = SJ_Bridged;
+EndCmp
+
+BeginCmp
+TimeStamp = /5696FD92;
+Reference = SJ2;
+ValeurCmp = SJ;
+IdModule  = SJ_Bridged;
+EndCmp
+
+BeginCmp
+TimeStamp = /5697045E;
+Reference = SJ3;
+ValeurCmp = SJ;
+IdModule  = SJ_Bridged;
+EndCmp
+
+BeginCmp
+TimeStamp = /56970464;
+Reference = SJ4;
+ValeurCmp = SJ;
+IdModule  = SJ_Bridged;
+EndCmp
+
+BeginCmp
+TimeStamp = /5696F461;
+Reference = U1;
+ValeurCmp = MAX31865;
+IdModule  = QFN20_5x5;
+EndCmp
+
+BeginCmp
+TimeStamp = /56970491;
+Reference = U2;
+ValeurCmp = MAX31865;
+IdModule  = QFN20_5x5;
+EndCmp
+
+EndListe
